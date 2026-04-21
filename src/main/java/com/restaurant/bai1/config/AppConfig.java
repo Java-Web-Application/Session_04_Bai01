@@ -1,4 +1,4 @@
-package com.restaurant.config; // package
+package com.restaurant.bai1.config; // package
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;

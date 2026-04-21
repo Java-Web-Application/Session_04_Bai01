@@ -1,6 +1,6 @@
-package com.restaurant.service;
+package com.restaurant.bai1.service;
 
-import com.restaurant.repository.OrderRepository;
+import com.restaurant.bai1.repository.OrderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

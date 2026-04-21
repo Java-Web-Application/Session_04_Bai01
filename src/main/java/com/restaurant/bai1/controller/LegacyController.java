@@ -1,5 +1,5 @@
-package com.restaurant.controller;
-import com.restaurant.service.OrderService;
+package com.restaurant.bai1.controller;
+import com.restaurant.bai1.service.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
